@@ -1,0 +1,12 @@
+[submodule "befunge93-vault-cracker"]
+	path = befunge93-vault-cracker
+	url = git@github.com:hyperpolymath/befunge93-vault-cracker.git
+[submodule "dicti0nary-attack"]
+	path = dicti0nary-attack
+	url = git@github.com:hyperpolymath/dicti0nary-attack.git
+[submodule "safe-brute-force"]
+	path = safe-brute-force
+	url = git@github.com:hyperpolymath/safe-brute-force.git
+[submodule "blue-screen-of-app"]
+	path = blue-screen-of-app
+	url = git@github.com:hyperpolymath/blue-screen-of-app.git
